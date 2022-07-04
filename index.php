@@ -218,7 +218,7 @@
   <div class="link1">
   <img src="used/AGENT.png" alt="jh" class="rounded-circle" width="150" height="150">
 </div>
-<p class="card-text">Some quick example text to build <br>on the card title and make up the<br> bulk of the card's content.</p>
+<p class="card-text">Some shehan example text to build <br>on the card title and make up the<br> bulk of the card's content.</p>
 <br>
   <a href="#" class="btn btn-dark " style="width:255px">USER COMMENTS</a>
 </div> 
